@@ -9,7 +9,7 @@ body {
 }
 
 *{
-  cursor: url('./assets/cursor.png'), auto !important;
+  cursor: url(https://brand.riotgames.com/images/league-of-legends/cursor.png), auto !important;
 }
 
 code {
